@@ -2,3 +2,4 @@ Flask
 mysql-connector-python
 qrcode
 Pillow
+gunicorn==21.2.0
