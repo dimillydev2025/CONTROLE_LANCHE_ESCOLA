@@ -54,6 +54,8 @@ com QR Code contendo somente o ID de matrícula. Edite a lista
 `alunos_demonstracao` com os dados dos estudantes e execute:
 
 ```powershell
+Website: https://controle-lanche-escola.onrender.com
+
 python gerar_carteirinhas.py
 ```
 
